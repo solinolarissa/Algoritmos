@@ -1,2 +1,3 @@
-# Algoritmos-
-Exercícios do Curso de Algoritmos do Guanabara
+# Algoritmos
+
+## Exercícios do Curso de Algoritmos do Guanabara
